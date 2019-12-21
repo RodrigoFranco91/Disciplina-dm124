@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "start": "ts-node index.ts"
+    },
+    "devDependencies": {
+        "ts-node": "^8.4.1",
+        "typescript": "^3.6.4"
+    }
+}
